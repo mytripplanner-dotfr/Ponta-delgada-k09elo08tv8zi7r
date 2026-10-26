@@ -1,0 +1,301 @@
+{
+  "pays": "Portugal",
+  "drapeau": "🇵🇹",
+  "symbole": "🌋",
+  "titre": "Sérénité volcanique et bains secrets à São Miguel",
+  "budget_total": "Environ 1 200 €/personne",
+  "duree": "8 jours",
+  "temps_vol": "4h20 depuis Paris, france",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et douceur à Ponta Delgada",
+      "legende": "Après un vol tranquille au-dessus de l'Atlantique, prenez possession de votre voiture et rejoignez la charmante capitale insulaire. Les façades en pierre de lave blanche et noire vous plongent d'emblée dans une atmosphère paisible. Une première promenade le long des quais vous permet d'évacuer la fatigue du voyage sans le moindre stress.",
+      "lieu": "Ponta Delgada",
+      "activites": [
+        "<strong>🛬 Arrivée et installation</strong> : Récupération du véhicule à l'aéroport puis pose des valises à votre hébergement en toute quiétude.",
+        "<strong>🚶‍♂️ Flânerie aux Portas da Cidade</strong> : Balade contemplative sur la place centrale pavée de motifs marins et face aux célèbres arches de basalte."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Portas da Cidade, Ponta Delgada",
+          "categorie": "Monument historique",
+          "coords": { "lat": 37.7408, "lng": -25.6687 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Location de voiture",
+          "texte": "Avoir un véhicule est indispensable à São Miguel pour explorer l'île à votre rythme sans contrainte horaire."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🌿",
+      "titre": "La magie émeraude de Sete Cidades",
+      "legende": "Débutez votre exploration par le joyau emblématique de l'île sans effort physique. Les panoramas spectaculaires sur les lacs jumeaux bleu et vert s'offrent directement depuis des belvédères faciles d'accès. La journée se poursuit par une balade reposante sur les rives bordées d'hortensias luxuriants.",
+      "lieu": "Sete Cidades",
+      "activites": [
+        "<strong>👁️ Panorama à la Vista do Rei</strong> : Émerveillement devant le contraste saisissant des deux lacs nichés au fond d'un immense cratère verdoyant.",
+        "<strong>🚶‍♀️ Balade tranquille au bord du lac</strong> : Promenade plate et apaisante le long des rives paisibles avant une pause café dans le village."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Miradouro da Vista do Rei, Sete Cidades",
+          "categorie": "Point de vue",
+          "coords": { "lat": 37.8392, "lng": -25.7949 }
+        },
+        {
+          "nom_recherche": "Lagoa das Sete Cidades, Sete Cidades",
+          "categorie": "Lac volcanique",
+          "coords": { "lat": 37.8647, "lng": -25.7876 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🌤️",
+          "titre": "Météo en direct",
+          "texte": "Consultez l'application locale SpotAzores pour vérifier les webcams des belvédères avant de prendre la route."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "♨️",
+      "titre": "Bains thermaux et vapeurs de Furnas",
+      "legende": "Cap vers la vallée magique de Furnas, où la Terre montre toute sa puissance géothermique tout en douceur. Vous découvrirez les caldeiras fumantes où mijote le plat traditionnel avant de vous immerger dans un bassin thermal unique. L'eau naturellement chaude invite à un relâchement musculaire absolu.",
+      "lieu": "Furnas",
+      "activites": [
+        "<strong>💨 Découverte des Caldeiras de Furnas</strong> : Promenade accessible au milieu des fumerolles et des sources d'eau bouillonnante aux odeurs soufrées.",
+        "<strong>🌿 Baignade au Parque Terra Nostra</strong> : Immersion délassante dans le grand bassin d'eau thermale ferrugineuse chauffée naturellement à 38°C."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Caldeiras das Furnas, Furnas",
+          "categorie": "Site géothermique",
+          "coords": { "lat": 37.7725, "lng": -25.3042 }
+        },
+        {
+          "nom_recherche": "Parque Terra Nostra, Furnas",
+          "categorie": "Jardin botanique et thermes",
+          "coords": { "lat": 37.7728, "lng": -25.3134 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "👙",
+          "titre": "Astuce maillot",
+          "texte": "Emportez un maillot de bain sombre et ancien car l'eau ferrugineuse riche en minéraux colore les tissus clairs."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🌊",
+      "titre": "Lagoa do Fogo et jungle tiède",
+      "legende": "Montez sur les hauteurs centrales de l'île pour contempler l'un des lacs les plus sauvages et purs de l'archipel. Vous redescendez ensuite par les versants verdoyants pour profiter d'une baignade thermale féerique au creux d'un ravin tropical. Une journée placée sous le signe de l'émerveillement calme.",
+      "lieu": "Ribeira Grande",
+      "activites": [
+        "<strong>🌋 Contemplation de la Lagoa do Fogo</strong> : Admiration du lac turquoise sauvage depuis le belvédère sommital sans marche éprouvante.",
+        "<strong>🌴 Bains chauds à la Caldeira Velha</strong> : Délassement dans des bassins tièdes protégés par une canopée majestueuse de fougères arborescentes."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Miradouro da Lagoa do Fogo, Ribeira Grande",
+          "categorie": "Point de vue",
+          "coords": { "lat": 37.7634, "lng": -25.4851 }
+        },
+        {
+          "nom_recherche": "Monumento Natural da Caldeira Velha, Ribeira Grande",
+          "categorie": "Bains thermaux naturels",
+          "coords": { "lat": 37.7801, "lng": -25.4984 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🎟️",
+          "titre": "Réservation préalable",
+          "texte": "L'accès aux bassins de la Caldeira Velha est limité à des créneaux de 2 heures ; réservez votre ticket en ligne à l'avance."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🍃",
+      "titre": "Thé ancestral et falaises de la côte nord",
+      "legende": "La côte septentrionale abrite les seules plantations de thé d'Europe exploitées de manière traditionnelle. Promenez-vous sans hâte entre les lignes d'arbustes taillés avec soin face à l'immensité de l'Atlantique. Poursuivez par une halte détente dans la jolie cité historique de Ribeira Grande.",
+      "lieu": "Maia & Ribeira Grande",
+      "activites": [
+        "<strong>🍵 Visite de l'usine de thé Gorreana</strong> : Balade libre dans les collines de théiers suivie d'une dégustation gratuite des thés noir et vert.",
+        "<strong>🏛️ Découverte paisible de Ribeira Grande</strong> : Promenade le long des ponts baroques et dégustation des fameuses liqueurs régionales de fruits."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Chá Gorreana, Maia",
+          "categorie": "Plantation de thé",
+          "coords": { "lat": 37.8183, "lng": -25.4022 }
+        },
+        {
+          "nom_recherche": "Ponte dos Oito Arcos, Ribeira Grande",
+          "categorie": "Monument historique",
+          "coords": { "lat": 37.8213, "lng": -25.5186 }
+        }
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "☕",
+          "titre": "Tradition unique",
+          "texte": "L'usine Gorreana produit du thé sans pesticides depuis 1883 avec des machines authentiques du XIXe siècle."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🌺",
+      "titre": "Jardins suspendus et recoins du Nordeste",
+      "legende": "Le Nordeste est la région la plus secrète et fleurie de São Miguel, idéale pour les voyageurs en quête de sérénité. Les routes impeccables sont bordées de massifs soignés et mènent à des points de vue aménagés comme des parcs d'Eden face à l'océan. Un dépaysement total au rythme des vagues lointaines.",
+      "lieu": "Nordeste",
+      "activites": [
+        "<strong>🌸 Pause fleurie au Miradouro da Ponta do Sossego</strong> : Flânerie contemplative dans des jardins botaniques suspendus au-dessus des falaises marines.",
+        "<strong>🗼 Coup d'œil sur le Phare d'Arnel</strong> : Vue panoramique sur le plus ancien phare des Açores trônant fièrement sur sa pointe rocheuse."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Miradouro da Ponta do Sossego, Nordeste",
+          "categorie": "Jardin et point de vue",
+          "coords": { "lat": 37.8189, "lng": -25.1432 }
+        },
+        {
+          "nom_recherche": "Farol do Arnel, Nordeste",
+          "categorie": "Phare maritime",
+          "coords": { "lat": 37.8242, "lng": -25.1364 }
+        }
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "🚗",
+          "titre": "Prudence sur la route",
+          "texte": "La pente menant au phare d'Arnel est à plus de 35% : admirez le phare depuis le belvédère sans descendre en voiture."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "🍍",
+      "titre": "Bain océanique chaud et saveurs d'ananas",
+      "legende": "Pour votre dernière journée complète, découvrez l'étonnante crique où l'eau thermale chaude jaillit directement dans l'eau fraîche de l'océan Atlantique. De retour près de Ponta Delgada, visitez les serres vitrées traditionnelles qui cultivent les ananas les plus parfumés du monde.",
+      "lieu": "Ginetes & Ponta Delgada",
+      "activites": [
+        "<strong>🌊 Baignade dans la mer thermale de Ferraria</strong> : Expérience relaxante unique dans une crique naturelle chauffée par une source volcanique sous-marine.",
+        "<strong>🍍 Visite des serres d'ananas de Fajã de Baixo</strong> : Promenade olfactive sous serres en verre chaulées pour comprendre la culture de ce fruit royal."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Termas da Ferraria, Ginetes",
+          "categorie": "Source thermale marine",
+          "coords": { "lat": 37.8586, "lng": -25.8524 }
+        },
+        {
+          "nom_recherche": "Plantação de Ananases dos Açores, Ponta Delgada",
+          "categorie": "Plantation fruitière",
+          "coords": { "lat": 37.7512, "lng": -25.6483 }
+        }
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "🌊",
+          "titre": "Condition idéale",
+          "texte": "À Ferraria, baignez-vous à marée basse ou mi-marée pour profiter pleinement de la chaleur naturelle de l'eau."
+        }
+      ]
+    },
+    {
+      "jour": 8,
+      "symbole": "🛫",
+      "titre": "Marché local et doux départ",
+      "legende": "Terminez votre séjour par un passage savoureux au marché couvert de la capitale pour faire le plein de douceurs et de fromages insulaires. Profitez d'un dernier déjeuner face à la marina avant de rejoindre l'aéroport tout proche. Vous repartez le corps reposé et l'esprit bercé par la nature açorienne.",
+      "lieu": "Ponta Delgada",
+      "activites": [
+        "<strong>🧀 Saveurs au Mercado da Graça</strong> : Découverte des étals de fromages artisanaux, fruits exotiques locaux et confitures artisanales.",
+        "<strong>🛫 Restitution et vol retour</strong> : Court trajet vers l'aéroport João Paulo II et envol vers Paris en toute sérénité."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Mercado da Graça, Ponta Delgada",
+          "categorie": "Marché couvert",
+          "coords": { "lat": 37.7423, "lng": -25.6669 }
+        }
+      ],
+      "illustration": "jour8.jpg",
+      "encarts": [
+        {
+          "symbole": "✈️",
+          "titre": "Proximité aéroport",
+          "texte": "L'aéroport est situé à seulement 10 minutes en voiture du centre historique de Ponta Delgada."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 211 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "190 €/pers (voiture + essence)", "symbole": "🚗" },
+    { "titre": "Budget repas:", "legende": "260 €/pers (restaurants locaux et pique-niques)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "460 €/pers (7 nuits en hôtel ou appartement 3*)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "75 €/pers (bains thermaux et visites)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai à octobre pour la douceur et la floraison des hortensias", "symbole": "☀️" },
+    { "titre": "Printemps pour profiter des sources chaudes sans foule", "symbole": "🌸" }
+  ],
+  "infos_pratiques": [
+    { "titre": "Le climat est doux mais changeant : le proverbe local dit qu'on vit quatre saisons en un seul jour.", "symbole": "🌦️" },
+    { "titre": "La carte bancaire est acceptée presque partout mais gardez un peu de monnaie pour les petits producteurs.", "symbole": "💳" },
+    { "titre": "Permis de conduire français suffisant. Les routes principales sont excellentes et calmes.", "symbole": "🚗" },
+    { "titre": "São Miguel applique le fuseau horaire UTC-1, soit 2 heures de moins par rapport à la métropole française.", "symbole": "⏰" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "🍲",
+      "titre": "Le festin sous terre",
+      "texte": "À Furnas, le plat emblématique Cozido das Furnas cuit pendant plus de six heures dans d'immenses marmites enfouies directement dans la terre chauffée par les vapeurs volcaniques."
+    },
+    {
+      "symbole": "☕",
+      "titre": "Le thé le plus septentrional",
+      "texte": "Les Açores abritent les seules plantations industrielles de thé de toute l'Europe, introduites au XIXe siècle avec l'aide de maîtres artisans chinois arrivés de Macao."
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🥘",
+      "titre": "Cozido das Furnas",
+      "texte": "Ragoût traditionnel de viandes savoureuses, choux et patates douces, cuit lentement à l'étouffée dans la chaleur de la terre volcanique."
+    },
+    {
+      "symbole": "🥩",
+      "titre": "Bife à Regional",
+      "texte": "Tendre pièce de bœuf insulaire élevée en plein air, mijotée avec une sauce à l'ail, au vin blanc et garnie d'un piment doux açorien."
+    },
+    {
+      "symbole": "🍍",
+      "titre": "Bolo Lêvedo et Ananas des Açores",
+      "texte": "Petit pain brioché moelleux légèrement toasté, servi avec du beurre local ou accompagné d'une tranche d'ananas extra-sucré cultivé sous serre."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-PDL/2027-05-11/2027-05-18", "symbole": "🛬" },
+    { "legende": "Portail touristique officiel", "titre": "Visit Azores", "url": "https://www.visitazores.com/fr", "symbole": "📘" },
+    { "legende": "Webcams météo de l'île", "titre": "SpotAzores", "url": "https://www.spotazores.com", "symbole": "🌤️" }
+  ]
+}
